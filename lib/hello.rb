@@ -1,5 +1,5 @@
 # ["Tim", "Tom", "Jim"]
-def hello_t(array)
+def hello_t()
 i=0
 
 while i < array.length
